@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+body    {
+    background-color: royalblue;
+}
+h1 {
+color: white;
+background-color: black;
+font-family: "Indie Flower";
+}
+p {
+color: red;
+background-color: lightyellow;
+}
+@font-face {
+    font-family: 'Indie Flower';
+    src: url("IndieFlower.woff2")
+}

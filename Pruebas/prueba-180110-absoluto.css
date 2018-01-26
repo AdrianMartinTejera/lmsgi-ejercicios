@@ -1,0 +1,45 @@
+body{
+    background-color: grey;
+}
+
+p{
+    position: absolute;
+
+    overflow: auto;
+
+
+
+
+}
+
+
+
+
+p#p1{
+    width: 40%;
+    right: 20%;
+    top: 20%;
+    background-color: aquamarine;
+    height: 30%;
+
+
+}
+
+p#p2{
+    width: 40%;
+
+    height: 30%;
+    left: 20%;
+    top: 10%;
+    background-color: gold;
+
+}
+
+p#p3{
+    width: 40%;
+    height: 30%;
+    left: 40%;
+    top: 5%;
+    background-color: lightcoral;
+
+}
