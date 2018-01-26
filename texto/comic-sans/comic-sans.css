@@ -1,0 +1,39 @@
+html{
+background-color:hsl(212, 54%, 85%);
+font-family: sans-serif;
+}
+h1{
+text-align: right;
+font-size: 300%;
+
+
+}
+h2{
+font-family: monospace;
+font-size:370%;
+font-variant: small-caps;
+}
+strong{
+color: hsl(25, 75%, 47%);
+
+}
+em{
+color: hsl(150, 100%, 25%);
+background-color: white;
+
+}
+address{
+text-align: center;
+
+
+}
+span.titulo{
+color: hsl(0, 100%, 50%);
+font-family: cursive;
+
+}
+span.año{
+color: hsl(33, 100%, 50%);
+
+
+}

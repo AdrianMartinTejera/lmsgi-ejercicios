@@ -1,0 +1,10 @@
+@charset "utf-8";
+body{
+    background-color: hsl(35, 100%, 90%);
+}
+span.peliculas1{
+    background-color: hsl(325, 100%, 90%);
+}
+span.peliculas2{
+    background-color: white;
+}

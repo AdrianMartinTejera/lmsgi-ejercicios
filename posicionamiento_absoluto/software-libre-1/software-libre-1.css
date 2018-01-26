@@ -1,0 +1,61 @@
+html{
+    background-color: #E0E1EB;
+    font-family: sans-serif;
+
+    text-align: justify;
+}
+
+h1{
+    background-color: #33354D;
+    color: white;
+    font-size: 400%;
+    margin: 0;
+}
+
+h2{
+    background-color: #33354D;
+    color: white;
+    text-align: center;
+    margin: 5%;
+    margin-top: 0;
+}
+
+h3{
+    background-color: #29A333;
+    color: white;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 5px;
+}
+article{
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+
+
+}
+
+section{
+    border-right: #33354D 3px solid;
+    border-left: #33354D 3px solid;
+    position: absolute;
+    margin-top: 2%;
+}
+
+section.escritorio{
+    top: 10%;
+    right: 60%;
+    left: 10%;
+}
+
+section.internet{
+    top:10%;
+    right: 10%;
+    left: 60%;
+}
+
+p{
+padding: 5px;
+}
+

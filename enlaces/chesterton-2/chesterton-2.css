@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+html{
+    background-color: hsl(14, 20%, 45%);
+    color: white;
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    margin-left:15%;
+    margin-right: 15%;
+}
+
+p{
+    font-size: 150%;
+    line-height: 50px;
+}
+
+a:visited{
+   color: hsl(195, 61%, 25%);
+}
+
+a.bordes-indice{
+    background-color: hsl(194, 60%, 90%);
+    border: hsl(195, 61%, 25%) 5px solid;
+    font-size: 30px;
+    text-transform: uppercase;
+    border-radius: 10px;
+    padding: 5px;
+    text-decoration: none;
+    margin: 10px;
+}
+
+p.enlace{
+    text-align: center;
+}
+
+p.imagen{
+    text-align: center;
+}

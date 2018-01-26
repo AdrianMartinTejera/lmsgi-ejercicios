@@ -1,0 +1,56 @@
+@charset "utf-8";
+
+body {
+  margin-right: 10%;
+  margin-left: 10%;
+  text-align: justify;
+  background-color: hsl(15, 20%, 50%);
+  font-family: sans-serif;
+  font-size: 150%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 265%;
+  margin: 0;
+}
+
+h2{
+    background-color: white;
+    margin-top: 0;
+}
+
+main{
+    border: white 2px solid;
+}
+
+section{
+    background-color: hsl(16, 15%, 65%);
+    margin: 10px;
+
+    padding: 5px;
+}
+
+section p{
+    color: white;
+    border: hsl(14, 29%, 20%) 10px solid;
+    text-align: justify;
+    padding: 10px;
+    margin-right: 100px;
+    margin-left: 100px;
+
+}
+
+header {
+  background-color: hsl(16, 15%, 55%);
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+footer {
+  background-color: hsl(16, 15%, 55%);
+  font-size: 80%;
+  border-top: black 5px solid;
+}
+
+

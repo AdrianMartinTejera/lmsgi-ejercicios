@@ -1,0 +1,40 @@
+@charset "utf-8";
+body{
+    background-color: hsl(69, 10%, 75%);
+    font-family: sans-serif;
+    font-size: 150%;
+}
+
+h1{
+    color: hsl(240, 65%, 25%);
+    text-transform: uppercase;
+    text-align: right;
+}
+
+h2{
+    background-color: hsl(68, 29%, 30%);
+    color: white;
+    clear: both;
+}
+strong{
+font-style: oblique;
+}
+
+img.izquierda {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+img.derecha{
+    float: right;
+}
+p.centrado{
+    text-align: center;
+}
+address{
+    clear: both;
+
+}
+p{
+text-align: justify;
+}

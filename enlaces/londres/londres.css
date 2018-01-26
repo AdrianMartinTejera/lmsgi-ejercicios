@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+html{
+    background-color: hsl(175, 40%, 50%);
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1{
+    text-align: center;
+    color: hsl(175, 100%, 15%);
+    font-size: 50px;
+}
+
+a{
+    color: hsl(175, 100%, 15%);
+    font-weight: bold;
+}
+
+a:visited{
+    color: hsl(20, 100%, 45%);
+}

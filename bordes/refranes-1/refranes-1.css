@@ -1,0 +1,48 @@
+@charset "utf-8";
+html{
+font-family: sans-serif;
+font-size: 150%;
+}
+
+h1{
+    text-align: center;
+text-transform: uppercase;
+border: black 5px solid;
+}
+p.estilo-1{
+border-top: red 20px double;
+border-left: red 20px double;
+}
+
+p.estilo-2{
+border-top: blue 5px dashed;
+border-bottom: blue 20px dashed;
+border-left: green 40px dashed;
+border-right: green 10px dashed;
+}
+
+p.estilo-3{
+border-top: hsl(51, 100%, 50%) 40px double;
+border-bottom: hsl(51, 100%, 50%) 40px double;
+border-left: hsl(51, 100%, 50%) 10px double;
+border-right: hsl(51, 100%, 50%) 10px double;
+}
+
+p.estilo-4{
+border-top: hsl(120, 100%, 50%) 20px solid;
+border-bottom: blue 20px solid;
+}
+
+p.estilo-5{
+border-top: red 40px dashed;
+border-bottom: black 40px dotted;
+border-right: black 40px dashed;
+border-left: black 40px dashed;
+}
+
+p.estilo-6{
+border-top: black 10px dotted;
+border-bottom: black 20px dashed;
+border-right: black 40px dashed;
+border-left: red 40px double;
+}
